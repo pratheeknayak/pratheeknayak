@@ -17,7 +17,7 @@
   - Python
   - Machine Learning
   - Deep Learning
-  - FastAPI
+  - Kubernetes
   - Docker
   - REST APIs
 
