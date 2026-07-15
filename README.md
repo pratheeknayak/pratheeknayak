@@ -1,14 +1,8 @@
-<!-- ========================= BANNER ========================= -->
-
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" alt="Banner" width="100%" />
+  <img src="./Pratheek%20Banner.png" alt="Pratheek Banner" width="100%" />
 </p>
 
 <h1 align="center">Hello, I'm Pratheek!!</h1>
-
-<h3 align="center">
-AI/ML Engineer • Python Developer • FastAPI • Docker • DevOps Enthusiast
-</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Python+Developer;FastAPI+Developer;Docker+%7C+Kubernetes;Always+Learning+New+Technologies" />
@@ -18,7 +12,7 @@ AI/ML Engineer • Python Developer • FastAPI • Docker • DevOps Enthusiast
 
 ## About Me
 
-<img align="right" alt="Coding" width="380" src="YOUR_CODING_GIF_LINK">
+<img align="right" alt="Coding" width="380" src="https://img.magnific.com/premium-vector/clean-coding-flat-illustration-web-developer-doing-programming_203633-2037.jpg?semt=ais_hybrid&w=740&q=80" />
 
 - Currently working on **AI & Machine Learning Projects**
 
