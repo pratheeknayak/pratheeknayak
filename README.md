@@ -4,12 +4,6 @@
 
 <h1 align="center">Hello, I'm Pratheek!!</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Python+Developer;Docker+%7C+Kubernetes;Always+Learning+New+Technologies" />
-</p>
-
----
-
 ## About Me
 
 <img align="right" alt="Coding" width="380" src="./Image.webp" />
